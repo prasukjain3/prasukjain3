@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prasuk Jain
 - 👀 I’m interested in programming, music, sports and art.
-- 🌱 I’m currently learning programming in C and Python, as well as how to play Piano
+- 🌱 I’m currently learning programming in C and Python.
 - 📓 I'm currently studying in SRM University, Chennai in B.Tech course for AI.
 - 📫 How to reach me: 
 - 📧 Email: prasukjain479@gmail.com   prasukjain3@icloud.com
